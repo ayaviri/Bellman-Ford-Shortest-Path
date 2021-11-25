@@ -1,0 +1,7 @@
+in this project, we want to implement bellman-ford's shortest path algorithm. in order to do this,
+i need to be able to represent a simple directed graph with weighted edges. we assume that there
+are no negative cycles in this graph, for if there were one, no shortest path would exist.
+
+i will implement the graph using an adjacency list
+
+ok, now that i've created a graph representation, i will implement bellman-ford's algorithm
